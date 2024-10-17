@@ -26,3 +26,6 @@ weight = 10
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  description = "Run code on the most distributed edge compute platform in the world to cut down latency, speed up response times, improve performance, and deliver a better user experience."

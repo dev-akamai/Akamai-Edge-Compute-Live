@@ -9,6 +9,7 @@ useCase = "Redirects are often more complicated than: ''Send traffic to this URL
 featured = true
 demoURL = 'https://www.edgecompute.live/sku/483D5F/reviews'
 gitURL = 'https://github.com/akamai/edgeworkers-examples/tree/master/edgecompute/examples/traffic-routing/redirect-url%20(EKV)'
+description = 'Lorem ipsum dolor sit amet'
 
 [benefits]
 	'Reduce Latency' = "Speed up response times by moving work closer to users."
